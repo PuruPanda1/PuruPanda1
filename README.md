@@ -5,22 +5,19 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Advance Android Features**
-
-- 💻 My personal Project [BudgetWise -Expense Tracker](https://play.google.com/store/apps/details?id=com.purabmodi.payment&hl=en&gl=US)
+- 🌱 I’m currently working on **Flutter Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PuruPanda1](https://github.com/PuruPanda1)
 
-- 💬 Ask me about **java, kotlin, android, python**
+- 💬 Ask me about **Java, Kotlin, Android, Flutter, Python**
 
 - 📫 How to reach me **purabmodi2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1coH5mwOubEsZeIL2t_ZViyE1NHbrR-CG/view](https://drive.google.com/file/d/1coH5mwOubEsZeIL2t_ZViyE1NHbrR-CG/view)
+- 📄 Know about my experiences [Purab Modi](https://purabmodi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/purab__here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purab__here" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/purabmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purabmodi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/purab-modi-4b1081209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purabmodi" height="30" width="40" /></a>
 <a href="https://instagram.com/purab_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purab_here" height="30" width="40" /></a>
 </p>
 
